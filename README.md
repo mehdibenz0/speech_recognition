@@ -1,7 +1,7 @@
 # Classifying Speakers Using Speech Recognition
 
 ## 1. Introduction
-Ce projet a pour objectif de classifier le type de locuteur (homme, femme ou enfant) à partir d'enregistrements sonores (.wav).  
+Ce projet a pour objectif de classifier le type de locuteur (homme, femme ou enfant).  
 L'approche repose sur la modélisation guidée par les données et l'utilisation de réseaux de neurones artificiels (ANN).  
 Les performances des modèles ont été évaluées à l'aide de validation croisée et de métriques telles que la **matrice de confusion** et le **f1-score**.
 
